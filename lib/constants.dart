@@ -1,0 +1,1 @@
+const Host = 'https://tellurium.behuns.com';
